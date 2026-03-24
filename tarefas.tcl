@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 #!/usr/bin/tclsh
 
 set filename "contador_netlist.v"
@@ -24,4 +22,4 @@ puts "AND2: $and2 instâncias"
 puts "XOR2: $xor2 instâncias"
 puts "flipflop_D: $ff instâncias"
 puts "TOTAL: [expr $and2 + $xor2 + $ff] instâncias"
->>>>>>> Tcl-Git-Ci
+
